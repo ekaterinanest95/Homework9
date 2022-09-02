@@ -1,0 +1,15 @@
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.csproj.AssemblyReference.cache
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.AssemblyInfoInputs.cache
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.AssemblyInfo.cs
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.csproj.CoreCompileInputs.cache
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\bin\Debug\net6.0\Ex66.exe
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\bin\Debug\net6.0\Ex66.deps.json
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\bin\Debug\net6.0\Ex66.runtimeconfig.json
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\bin\Debug\net6.0\Ex66.dll
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\bin\Debug\net6.0\Ex66.pdb
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.dll
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\refint\Ex66.dll
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.pdb
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\Ex66.genruntimeconfig.cache
+D:\Documents\education_analytic\Practise\Homework9\homework\Ex66\obj\Debug\net6.0\ref\Ex66.dll
